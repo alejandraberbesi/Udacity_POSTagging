@@ -1,4 +1,4 @@
-#### The code,text, images and other files found in this repository are NOT my intellectual property (see LICENCE and CODEOWNERS files). It is part of [Udacity] (https://www.udacity.com/) Natural Language Processing Nanodegree Program , I only contributed to some sections with the title **'IMPLEMENTATION'** of the notebook HMM_Tagger.ipynb.
+#### The code,text, images and other files found in this repository are NOT my intellectual property (see LICENCE and CODEOWNERS files). It is part of [Udacity](https://www.udacity.com/) Natural Language Processing Nanodegree Program , I only contributed to some sections with the title **'IMPLEMENTATION'** of the notebook HMM_Tagger.ipynb.
 
 ## Introduction
 
