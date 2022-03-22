@@ -1,4 +1,4 @@
-##This code is not my intellectual property (see LICENCE and CODEOWNERS files). I only sections with the title **'IMPLEMENTATION'** of the notebook HMM_Tagger.ipynb.
+## This code is not my intellectual property (see LICENCE and CODEOWNERS files). I only sections with the title **'IMPLEMENTATION'** of the notebook HMM_Tagger.ipynb.
 
 ## Introduction
 
